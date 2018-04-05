@@ -1,5 +1,5 @@
 #Programmer: Isaac Jonas
-#Title: Tidy_Project.R
+#Title: run_analysis.R
 #Summary: Merges multiple files for test and training sets, producing one tidy detailed file and one summary file. Please see the README file for
 #further details
 
