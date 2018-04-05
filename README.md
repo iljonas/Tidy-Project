@@ -1,7 +1,7 @@
 # Tidy-Project
 Merges multiple files for test and training sets, producing one tidy detailed file and one summary file
 
-To run this code, only source() and the Tidy_Project.R's file location need to be entered into the console. The user may also need to
+To run this code, only source() and the run_analysis.R's file location need to be entered into the console. The user may also need to
 change the setwd commands within the script to a pathway that matches their needs more, but otherwise the function will download the zip
 file, combine the files within it, and export the summary and detailed text files on its own
 
